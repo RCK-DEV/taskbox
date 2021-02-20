@@ -19,31 +19,31 @@
 ## saveBlob(response)
 Saves a given Blob response on the client-side
 
-**Kind**: global function  
+**Kind**: global function
 
 | Param | Type |
 | --- | --- |
-| response | <code>string</code> | 
+| response | <code>string</code> |
 
 <a name="openBlob"></a>
 
 ## openBlob(response)
 Displays the given Blob response
 
-**Kind**: global function  
+**Kind**: global function
 
 | Param | Type |
 | --- | --- |
-| response | <code>string</code> | 
+| response | <code>string</code> |
 
 <a name="downloadBlob"></a>
 
 ## downloadBlob(url)
 Downloads a blob from the given url param
 
-**Kind**: global function  
+**Kind**: global function
 
 | Param | Type |
 | --- | --- |
-| url | <code>string</code> | 
+| url | <code>string</code> |
 
